@@ -18,7 +18,7 @@ $(document).ready(function() {
 	
 	var map;
 	
-	// Comment added vis GitHub
+	// Comment added via GitHub
 
 	AmCharts.ready(function() {
 	    map = new AmCharts.AmMap();
