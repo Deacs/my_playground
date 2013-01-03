@@ -17,6 +17,8 @@ require_once($_SERVER['DOCUMENT_ROOT'].'/partials/header.php');
 $(document).ready(function() {
 	
 	var map;
+	
+	// Comment added via GitHub
 
 	AmCharts.ready(function() {
 	    map = new AmCharts.AmMap();
