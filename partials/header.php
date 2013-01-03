@@ -35,6 +35,7 @@
           <div class="nav-collapse">
             <ul class="nav">
               <li class="active"><a href="/">Home</a></li>
+              <li><a href="http://laravel.local/">Laravel</a></li>
               <li><a href="/canvas">Canvas</a></li>
               <li><a href="/fileSystem/">File API</a></li>
               <li><a href="/blueimp">File Upload</a></li>
